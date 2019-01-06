@@ -1,4 +1,3 @@
-# co-saliency-with-FCN
 Our caffemodel file can be downloaded [here](敌法敌法链接)
 
 Our Environment: Ubuntu 18.04, CUDA9.0
@@ -13,4 +12,4 @@ The usage of some files are here below
 - comp_.py: Compare results with different further improvement like CRF, mul
 - some other python files are used to generate image lists, you can read them if you need them.
 
-## Notice, all files before using please check the data path in the code.
+## Notice, please check the data path in the code before using.
